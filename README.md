@@ -16,4 +16,4 @@ Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdvitSingh5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats :
-https://github-readme-stats.vercel.app/api?AdvitSingh5
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvitSingh5&theme=radical)
