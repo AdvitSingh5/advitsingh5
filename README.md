@@ -14,3 +14,6 @@ Hi there 👋
 
 ### :fire: Languages used :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdvitSingh5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Stats :
+https://github-readme-stats.vercel.app/api?AdvitSingh5
