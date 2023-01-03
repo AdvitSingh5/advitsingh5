@@ -1,16 +1,10 @@
-Hi there 👋
-
-Hi there 👋🏻 
-My name is Advit Singh,  😶 
-I am a learning web developer. 💻 
-I am currently learning JavaScript.  🖥️ 
-I like to read motivational books and play guitar ( learning ). 📚 
-I am a old nerd. 🤓 
-I have Windows 11, Windows 10 .  💻 
-Feel Free to contact me. (just don't contact for some shit)
-Thanks & Regards  😄
-AS5  🙂
-
+👋🏻 Hi there 👋🏻 <br>
+🙂 My name is Advit Singh, <br>
+🖥️ I am a learning web developer.  <br>
+🖥️I am currently learning JavaScript.  <br>
+📚 I like to read motivational books and play guitar ( learning ).  <br>
+🤓 I am a old nerd.  <br>
+💻 I am a Windows 11 and Windows 10 user.  <br>
 
 🔭 I’m currently working on Making a Project With JavaScript. <br>
 🌱 I’m currently learning Javascript. <br>
@@ -20,3 +14,6 @@ AS5  🙂
 📫 How to reach me: Twitter - @AdvitSingh5, Email - advitsingh.451212@gmail.com <br>
 ⚡ Fun fact: I don't know how to cheat in exam. <br>
 
+Feel Free to contact me. (just don't contact for some shit) <br>
+Thanks & Regards  😄 <br>
+AS5  🙂 <br>
